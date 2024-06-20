@@ -1,0 +1,162 @@
+[
+  {
+    "Nom": "Dubois",
+    "Prenom": "Marie",
+    "Sexe": "Femme",
+    "Age": 45,
+    "Traitement-en-cours": "Hypertension - Amlodipine",
+    "Alerte-en-cours": "Aucune",
+    "ordonnances": [
+      {
+        "Principe Actif": "Amlodipine",
+        "Médicament": "Norvasc",
+        "Dose Journalière": "5 mg",
+        "Date de début de traitement": "2023-01-01",
+        "Médecin prescripteur": "Dr. Dupont"
+      },
+      {
+        "Principe Actif": "Losartan",
+        "Médicament": "Cozaar",
+        "Dose Journalière": "50 mg",
+        "Date de début de traitement": "2022-12-01",
+        "Médecin prescripteur": "Dr. Martin"
+      }
+    ]
+  },
+  {
+    "Nom": "Martinez",
+    "Prenom": "Juan",
+    "Sexe": "Homme",
+    "Age": 32,
+    "Traitement-en-cours": "Diabète - Insuline",
+    "Alerte-en-cours": "Aucune",
+    "ordonnances": [
+      {
+        "Principe Actif": "Insuline",
+        "Médicament": "Lantus",
+        "Dose Journalière": "20 units",
+        "Date de début de traitement": "2023-02-15",
+        "Médecin prescripteur": "Dr. Garcia"
+      }
+    ]
+  },
+  {
+    "Nom": "Lefevre",
+    "Prenom": "Sophie",
+    "Sexe": "Femme",
+    "Age": 28,
+    "Traitement-en-cours": "Asthme - Ventoline",
+    "Alerte-en-cours": "Allergie aux antibiotiques",
+    "ordonnances": [
+      {
+        "Principe Actif": "Albuterol",
+        "Médicament": "Ventoline",
+        "Dose Journalière": "2 puffs",
+        "Date de début de traitement": "2023-03-10",
+        "Médecin prescripteur": "Dr. Johnson"
+      }
+    ]
+  },
+  {
+    "Nom": "Moreau",
+    "Prenom": "Paul",
+    "Sexe": "Homme",
+    "Age": 60,
+    "Traitement-en-cours": "Arthrite - Méthotrexate",
+    "Alerte-en-cours": "Aucune",
+    "ordonnances": [
+      {
+        "Principe Actif": "Méthotrexate",
+        "Médicament": "Trexall",
+        "Dose Journalière": "15 mg",
+        "Date de début de traitement": "2023-04-05",
+        "Médecin prescripteur": "Dr. Smith"
+      }
+    ]
+  },
+  {
+    "Nom": "Dubois",
+    "Prenom": "Antoine",
+    "Sexe": "Homme",
+    "Age": 50,
+    "Traitement-en-cours": "Cholestérol - Statines",
+    "Alerte-en-cours": "Antécédents cardiaques",
+    "ordonnances": [
+      {
+        "Principe Actif": "Atorvastatine",
+        "Médicament": "Lipitor",
+        "Dose Journalière": "20 mg",
+        "Date de début de traitement": "2023-03-20",
+        "Médecin prescripteur": "Dr. Wilson"
+      }
+    ]
+  },
+  {
+    "Nom": "Martin",
+    "Prenom": "Laura",
+    "Sexe": "Femme",
+    "Age": 35,
+    "Traitement-en-cours": "Dépression - Sertraline",
+    "Alerte-en-cours": "Suivi psychiatrique régulier",
+    "ordonnances": [
+      {
+        "Principe Actif": "Sertraline",
+        "Médicament": "Zoloft",
+        "Dose Journalière": "50 mg",
+        "Date de début de traitement": "2023-02-28",
+        "Médecin prescripteur": "Dr. Anderson"
+      }
+    ]
+  },
+  {
+    "Nom": "Roussel",
+    "Prenom": "Sophie",
+    "Sexe": "Femme",
+    "Age": 38,
+    "Traitement-en-cours": "Migraine - Sumatriptan",
+    "Alerte-en-cours": "Aucune",
+    "ordonnances": [
+      {
+        "Principe Actif": "Sumatriptan",
+        "Médicament": "Imitrex",
+        "Dose Journalière": "50 mg",
+        "Date de début de traitement": "2023-04-10",
+        "Médecin prescripteur": "Dr. Taylor"
+      }
+    ]
+  },
+  {
+    "Nom": "Fournier",
+    "Prenom": "Luc",
+    "Sexe": "Homme",
+    "Age": 55,
+    "Traitement-en-cours": "Hypertension - Losartan",
+    "Alerte-en-cours": "Risque élevé de diabète",
+    "ordonnances": [
+      {
+        "Principe Actif": "Losartan",
+        "Médicament": "Cozaar",
+        "Dose Journalière": "25 mg",
+        "Date de début de traitement": "2023-03-15",
+        "Médecin prescripteur": "Dr. White"
+      }
+    ]
+  },
+  {
+    "Nom": "Leclerc",
+    "Prenom": "Isabelle",
+    "Sexe": "Femme",
+    "Age": 48,
+    "Traitement-en-cours": "Arthrose - Acétaminophène",
+    "Alerte-en-cours": "Aucune",
+    "ordonnances": [
+      {
+        "Principe Actif": "Acétaminophène",
+        "Médicament": "Tylenol",
+        "Dose Journalière": "2 mg",
+        "Date de début de traitement": "2023-03-15",
+        "Médecin prescripteur": "Dr. White"
+      }
+    ]
+  }
+]
